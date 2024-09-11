@@ -4,6 +4,7 @@ fun main(args: Array<String>){
     for (x in 1..10){
         if (x == 7)break
         if (x == 3) continue
+
         print("$x ")
     }
     print('\n')
