@@ -8,5 +8,6 @@ fun bigSmall(a: Int, b:Int) : Pair<Int, Int>{
     if (a > b)return Pair(a,b)
     else{
         return Pair(b, a)
+
     }
 }
