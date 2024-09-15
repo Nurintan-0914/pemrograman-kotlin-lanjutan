@@ -1,4 +1,4 @@
-fun min(args: Array<String>){
+fun main(args: Array<String>){
     println("Welcome to our calculator")
     println("enter the first number:");
     val a = readLine()!!.toDouble()
